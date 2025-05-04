@@ -33,7 +33,7 @@ Requires 5 different variables
 
 `DJANGO_DEBUG` bool value can be set to True
 
-`DJANGO_SECRET_KEY` str value can be set to 'django-insecure-'   
+`DJANGO_SECRET_KEY` str value   
 
 `ALLOWED_HOST=*`
 
